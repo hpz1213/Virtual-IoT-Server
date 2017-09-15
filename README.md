@@ -59,14 +59,6 @@ Assuming that works properly, run this command:
 * **IoT Devices**: Holds the code for the test IoT Devices
 * **Certificates**: Holds all the SSL certificates
 
-## Authors
-
-* **[Alok Elashoff](https://github.com/mano254)**
-* **[Ryan Goggins](https://github.com/rgoggins)**
-* **[Peize He](https://github.com/hpz1213)**
-* **[Jeffrey Shen](https://github.com/jeffreyshen19)**
-* **[Claudia Zimmerman](https://github.com/claudiarosalie)**
-
 ## License
  
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
