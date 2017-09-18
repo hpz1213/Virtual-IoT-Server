@@ -1,6 +1,6 @@
 /*
   FileSender.java
-  Test code to send a file to the Virtual Service
+  Test code to send a file to the Virtual Service 
 */
 
 import javax.net.ssl.SSLSocket;
