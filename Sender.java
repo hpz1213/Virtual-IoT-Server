@@ -1,6 +1,7 @@
 /*
   Sender.java
   Establishes connection between virtual service and IoT devices
+  Core function
 */
 
 import java.net.ServerSocket;
