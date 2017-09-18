@@ -1,6 +1,6 @@
 /*
   DoorSensorPlugin.java
-  Supplemental to the smart door lock (IoT device)
+  Supplemental to the smart door lock
 */
 
 
